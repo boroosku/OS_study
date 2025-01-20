@@ -7,4 +7,4 @@ project(myprog1)
 set(CMAKE_CXX_STANDARD 17)
 
 # Добавление исполняемого файла
-add_executable(hello_world src/main.cpp)
+add_executable(myprog1 src/main.cpp)
