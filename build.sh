@@ -17,4 +17,4 @@ echo "4. Сборка проекта..."
 make
 
 echo "5. Запуск программы..."
-./hello_world
+myprog1
